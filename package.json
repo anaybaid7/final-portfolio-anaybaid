@@ -15,7 +15,7 @@
     "react-vertical-timeline-component": "^3.6.0",
     "three": "^0.149.0",
     "react-router-dom": "^6.8.1",
-    "react-parallax-tilt": "^1.6.96",  // Added alternative package
+    "react-parallax-tilt": "^1.6.96",
     "@emailjs/browser": "^3.10.0",
     "@react-three/drei": "^9.56.24",
     "@react-three/fiber": "^8.11.1",
